@@ -6,9 +6,9 @@ Hi there! My name is Athena, and I am third year student pursuing a Bachelor's D
 Current Roles & Projects:
 - Research Assistant @ Sleep, Cognitive Aging, and Neurodegeneration (SCAN) Lab
 - Coding Instructor @ Code Ninjas Fountain Valley
-- Processing ECG Signals with MATLAB
 
 Past Roles & Projects:
+- Processing ECG Signals with MATLAB
 - Shin-Splint Prevention Device with SolidWorks
 - Dinosaur Running Game with Arduino IDE
 - Extern @ Edwards Lifesciences
