@@ -6,6 +6,8 @@ Hi there! My name is Athena, and I am third year student pursuing a Bachelor's D
 Current Roles & Projects:
 - Research Assistant @ Sleep, Cognitive Aging, and Neurodegeneration (SCAN) Lab
 - Coding Instructor @ Code Ninjas Fountain Valley
+- REM and NREM Data Project with MATLAB
+- E-SONIC (Engineering-Symphonic Orchestra New Instrument Competition)
 
 Past Roles & Projects:
 - Processing ECG Signals with MATLAB
@@ -13,7 +15,7 @@ Past Roles & Projects:
 - Dinosaur Running Game with Arduino IDE
 - Extern @ Edwards Lifesciences
 - Extern @ Dao Medical Group
-- Researcher @ Medical Innovation, Research, and Entrepreneurship Program
+- Researcher @ ULP Medical Innovation, Research, and Entrepreneurship Program
 
 ### Contact Information
 - [LinkedIn]
