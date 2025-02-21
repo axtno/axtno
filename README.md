@@ -4,6 +4,7 @@ Hi there! My name is Athena, and I am third year student pursuing a Bachelor's D
 
 ### About me:
 Current Roles & Projects:
+- Fabrication Technician @ ALine, Inc
 - Research Assistant @ Sleep, Cognitive Aging, and Neurodegeneration (SCAN) Lab
 - Coding Instructor @ Code Ninjas Fountain Valley
 - REM and NREM Data Project with MATLAB
@@ -19,5 +20,6 @@ Past Roles & Projects:
 
 ### Contact Information
 - [LinkedIn]
+- athenaktnguyen@gmail.com
 
 [LinkedIn]: <https://www.linkedin.com/in/axtno/>
