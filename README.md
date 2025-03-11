@@ -6,17 +6,15 @@ Hi there! My name is Athena, and I am third year student pursuing a Bachelor's D
 Current Roles & Projects:
 - Fabrication Technician @ ALine, Inc
 - Research Assistant @ Sleep, Cognitive Aging, and Neurodegeneration (SCAN) Lab
-- Coding Instructor @ Code Ninjas Fountain Valley
+- Research Assistant @ Khine Lab 
 - REM and NREM Data Project with MATLAB
 - E-SONIC (Engineering-Symphonic Orchestra New Instrument Competition)
 
 Past Roles & Projects:
+- Coding Instructor @ Code Ninjas Fountain Valley
 - Processing ECG Signals with MATLAB
 - Shin-Splint Prevention Device with SolidWorks
 - Dinosaur Running Game with Arduino IDE
-- Extern @ Edwards Lifesciences
-- Extern @ Dao Medical Group
-- Researcher @ ULP Medical Innovation, Research, and Entrepreneurship Program
 
 ### Contact Information
 - [LinkedIn]
