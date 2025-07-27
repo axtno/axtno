@@ -1,6 +1,6 @@
 # Hello! :wave: :blush:
 
-Hi there! My name is Athena, and I am third year student pursuing a Bachelor's Degree in Biomedical Engineering with a minor in Materials Science and Engineering. I am open to any opportunities to expand my knowledge, whether that be in programming, communications, or clinical research.
+Hi there! My name is Athena, and I am fourth year student pursuing a Bachelor's Degree in Biomedical Engineering with a minor in Materials Science and Engineering. I am open to any opportunities to expand my knowledge, whether that be in programming, communications, or clinical research.
 
 ### About me:
 Current Roles & Projects:
